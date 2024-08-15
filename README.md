@@ -19,3 +19,6 @@ Mysql: Storing the data and manipulating
 Findings
 
 Findings--> Detailed analysis was given particularly to improve sales and profit and for finding the weaker areas
+
+Report link: https://app.powerbi.com/groups/me/reports/5e81615e-e6cc-4860-a010-0eb2c47272b1/315e960744645726dc44?experience=power-bi
+LinkedIn Post URL: 
