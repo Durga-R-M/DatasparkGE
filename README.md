@@ -21,4 +21,5 @@ Findings
 Findings--> Detailed analysis was given particularly to improve sales and profit and for finding the weaker areas
 
 Report link: https://app.powerbi.com/groups/me/reports/5e81615e-e6cc-4860-a010-0eb2c47272b1/315e960744645726dc44?experience=power-bi
-LinkedIn Post URL: 
+
+LinkedIn Post URL: https://www.linkedin.com/posts/durgarmanikandan_dear-connections-i-am-thrilled-to-share-activity-7229896582119178240-YNqG?utm_source=share&utm_medium=member_desktop
